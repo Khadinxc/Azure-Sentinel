@@ -1,6 +1,7 @@
 # Sigma2KQL - Working as of 15/11/2025
 Sigma Queries turned into KQL for Defender and Microsoft Sentinel using [pysigma-backend-KQL-backend](https://github.com/AttackIQ/pySigma-backend-kusto/tree/main)
 Original Fork: https://github.com/Khadinxc/Azure-Sentinel/tree/master
+Sigma Rules Repository: https://github.com/SigmaHQ/sigma
 
 __Disclaimer: Not all of these rules have been validated either to ensure KQL is functional or if they are an exact replica of the Sigma rule. The script was created with the assumption that the pySigma Kusto backend does what it is meant to do.__
 
